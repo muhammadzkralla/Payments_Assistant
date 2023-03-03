@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/drawable/dialog_bg.xml" value="0.136" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.136" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.136" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.136" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.136" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/drawable/ic_baseline_payments_24.xml" value="0.136" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.136" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/add_user.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/edit_user_item.xml" value="0.176" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/fragment_edit.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/fragment_home.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/fragment_payments.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/payment_dialog.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/payment_item.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/payment_user_item.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/payment_users_dialog.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/user_item.xml" value="0.4" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/user_payment_dialog.xml" value="0.16485507246376813" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/user_payment_item.xml" value="0.10595358224016145" />
+        <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
