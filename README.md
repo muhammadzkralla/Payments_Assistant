@@ -1,5 +1,5 @@
-# Gym_Assistant
-Gym Assistant App with Room Database and Kotlin Coroutines
+# Payments_Assistant
+Payments App with Room Database and Kotlin Coroutines
 
 App Features : <br>
 1- Inserting multiple users with a name and ID. <br>
@@ -16,25 +16,21 @@ in the payment history section of the user. <br> <br>
 <table align="center">
   <tr>
     <td> 
-      <img src ="https://user-images.githubusercontent.com/54005330/219972841-f55167c4-2c17-4c61-8262-bf6ffcbcd4af.jpg"/>
+      <img src ="https://user-images.githubusercontent.com/54005330/224538795-5ff9fb8f-81b9-472b-8b35-11dc1c9e8926.PNG"/>
     </td>
-    <td>
-      <img src ="https://user-images.githubusercontent.com/54005330/219972846-53111a01-cd72-49f2-8f93-971d31be492c.jpg"/>
+    <td> 
+      <img src ="https://user-images.githubusercontent.com/54005330/224538852-fe747331-b7ad-4da6-bc5e-42937d82a15b.PNG"/>
     </td>
-    <td>
-      <img src ="https://user-images.githubusercontent.com/54005330/219972848-602a7357-396c-4693-a398-cdc495867f93.jpg"/>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td> 
+      <img src ="https://user-images.githubusercontent.com/54005330/224538886-dded95c0-5a54-4ec6-b52f-c765baaf3a5c.PNG"/>
     </td>
-    <td>
-      <img src ="https://user-images.githubusercontent.com/54005330/219972850-36b7fe2f-d19f-46d1-88bc-e07c8ce543ba.jpg"/>
-    </td>
-    <td>
-      <img src ="https://user-images.githubusercontent.com/54005330/219972851-2909021b-967e-4fa8-b99f-cf041fc51512.jpg"/>
-    </td>
-    <td>
-      <img src ="https://user-images.githubusercontent.com/54005330/219972854-6725e323-9120-4716-af52-51e8d8c6628d.jpg"/>
-    </td>
-    <td>
-      <img src ="https://user-images.githubusercontent.com/54005330/219972856-dc7bee78-473c-4f63-a1f1-781235353f2d.jpg"/>
+    <td> 
+      <img src ="https://user-images.githubusercontent.com/54005330/224538906-a1ebf719-e4c7-4336-bf80-94caafb55683.PNG"/>
     </td>
   </tr>
 </table>
