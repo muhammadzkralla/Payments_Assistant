@@ -24,6 +24,10 @@
         <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/user_payment_dialog.xml" value="0.16485507246376813" />
         <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/layout/user_payment_item.xml" value="0.10595358224016145" />
         <entry key="..\:/Android Projects/GymAssistant/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/Android Projects/PaymentsAssistant/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1365" />
+        <entry key="..\:/Android Projects/PaymentsAssistant/app/src/main/res/drawable/ic_baseline_payments_24.xml" value="0.1365" />
+        <entry key="..\:/Android Projects/PaymentsAssistant/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1365" />
+        <entry key="..\:/Android Projects/PaymentsAssistant/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20092592592592592" />
       </map>
     </option>
   </component>
